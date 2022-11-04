@@ -18,3 +18,4 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 
 # Second
 ![WhatsApp Image 2022-11-04 at 18 59 30](https://user-images.githubusercontent.com/73845925/200021898-c143a6e5-3da9-473e-b870-4fb56e63dd67.jpeg)
+![WhatsApp Image 2022-11-04 at 18 59 54](https://user-images.githubusercontent.com/73845925/200022190-2d205655-4a4a-4d42-8999-277c90c8672f.jpeg)

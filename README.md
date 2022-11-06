@@ -35,6 +35,5 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 - High Definition: 128*64
 - Voltage: 3V ~ 5V DC
 - Operating Temperature: -30 to +70C
-![WhatsApp Image 2022-11-06 at 13 12 33](https://user-images.githubusercontent.com/73845925/200165480-04f55441-ad90-49da-87dd-61da72603ebc.jpeg)
 
-![WhatsApp Image 2022-11-06 at 13 11 32](https://user-images.githubusercontent.com/73845925/200165389-61b97884-1f18-4b48-b543-384437f90d3e.jpeg)
+![WhatsApp Image 2022-11-06 at 13 12 33](https://user-images.githubusercontent.com/73845925/200165480-04f55441-ad90-49da-87dd-61da72603ebc.jpeg)

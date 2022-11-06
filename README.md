@@ -14,15 +14,13 @@ It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 a
 A buzzer or beeper is an audio signaling device, which may be mechanical, electromechanical, or piezoelectric. Typical uses of buzzers and beepers include alarm devices, timers, train and confirmation of user input such as a mouse click or keystroke.
 
 # First
--------
 ![WhatsApp Image 2022-11-03 at 19 49 00-2](https://user-images.githubusercontent.com/73845925/199784061-34d606ff-793f-4b12-b014-e50cb3c79f45.jpeg)
 
 # Second
--------
 ![WhatsApp Image 2022-11-04 at 18 59 30](https://user-images.githubusercontent.com/73845925/200022322-b7108e50-1118-4d06-8fb3-cbc66d15a6ac.jpeg)
 
 # Third
--------
+
 # I2C Protocol
 - Arduino uses some communication protocols to communicate with other Arduino or sensors. One of these protocols is I2C.
 - I2C (Inter-Integrated Circuit) is an example of synchronous communication from serial communication types.

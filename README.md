@@ -32,7 +32,7 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 
 - Besides, two line lines for data, SDA (Serial Data Line) and SCL (Serial Clock). Of these lines, SDA is the line where the devices data system is provided. This even becomes a double data view. The delivered delivered on the line is delivered by the SCL line. In the SCL line, clocks consisting of the master device are formed. 
 
-# Oled
+# 0.96 inch I2C OLED Display - SSD1306
 
 - High Definition: 128*64
 - Voltage: 3V ~ 5V DC

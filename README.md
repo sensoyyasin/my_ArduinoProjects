@@ -24,12 +24,17 @@ A buzzer or beeper is an audio signaling device, which may be mechanical, electr
 # Third
 -------
 # I2C Protocol
-Arduino uses some communication protocols to communicate with other Arduino or sensors. One of these protocols is I2C. I2C (Inter-Integrated Circuit) is an example of synchronous communication from serial communication types. Apart from the ground line, two lines, SDA and SCL, are needed for communication. Due to the large number of lines, it is not preferred for long distance communications. It is generally used in places where short distance and low data transfer rate are sufficient.
-Besides, two line lines for data, SDA (Serial Data Line) and SCL (Serial Clock). Of these lines, SDA is the line where the devices data system is provided. This even becomes a double data view. The delivered delivered on the line is delivered by the SCL line. In the SCL line, clocks consisting of the master device are formed. 
+- Arduino uses some communication protocols to communicate with other Arduino or sensors. One of these protocols is I2C.
+- I2C (Inter-Integrated Circuit) is an example of synchronous communication from serial communication types.
+- Apart from the ground line, two lines, SDA and SCL, are needed for communication.
+- Due to the large number of lines, it is not preferred for long distance communications.
+- It is generally used in places where short distance and low data transfer rate are sufficient.
+
+- Besides, two line lines for data, SDA (Serial Data Line) and SCL (Serial Clock). Of these lines, SDA is the line where the devices data system is provided. This even becomes a double data view. The delivered delivered on the line is delivered by the SCL line. In the SCL line, clocks consisting of the master device are formed. 
 
 # Oled
-High Definition: 128*64
-Voltage: 3V ~ 5V DC
-Operating Temperature: -30 to +70C
-![Uploading WhatsApp Image 2022-11-06 at 13.11.32.jpeg…]()
 
+- High Definition: 128*64
+- Voltage: 3V ~ 5V DC
+- Operating Temperature: -30 to +70C
+![WhatsApp Image 2022-11-06 at 13 11 32](https://user-images.githubusercontent.com/73845925/200165389-61b97884-1f18-4b48-b543-384437f90d3e.jpeg)

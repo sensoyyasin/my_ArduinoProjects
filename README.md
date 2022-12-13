@@ -36,6 +36,6 @@ A circuit that can be adjusted from the oled screen with the joystick.
 
 - High Definition: 128*64
 - Voltage: 3V ~ 5V DC
-- Operating Temperature: -30 to +70C
+- Operating Temperature: -30C to +70C
 
 ![WhatsApp Image 2022-11-06 at 13 12 33](https://user-images.githubusercontent.com/73845925/200165480-04f55441-ad90-49da-87dd-61da72603ebc.jpeg)
